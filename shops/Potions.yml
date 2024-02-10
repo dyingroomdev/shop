@@ -1,0 +1,10 @@
+pages:
+  page1:
+    gui-rows: 6
+    items:
+      '1':
+        material: POTION
+        buy: 11.9
+        sell: 2.98
+        potiontypes:
+        - experience_bottle
